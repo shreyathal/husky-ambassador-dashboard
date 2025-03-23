@@ -4,6 +4,8 @@ Husky Ambassador Work Log & Summary Dashboard
 
 This project is an interactive dashboard built using Python, Dash, and Plotly, designed for Husky Ambassadors to log their work shifts and view summary statistics across semesters.
 
+Total Time Spent: 25+ hours
+
 **Key Features:**
 
 Work Log Tab:
