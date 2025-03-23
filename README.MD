@@ -26,3 +26,21 @@ Local Data Storage:
 1) Add CSV export functionality for the work log
 2) Enable user authentication for personalized work log history
 3) Color coding for the work log 
+
+**How to Use This Husky Ambassador Work Log Dashboard**
+
+1️⃣ Clone this repository
+- git clone https://github.com/shreyathal/husky-ambassador-dashboard.git
+- cd husky-ambassador-dashboard
+
+2️⃣ Set up your Python environment
+- (Optional but recommended) Create and activate a virtual environment:
+python3 -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+- Install the required dependencies:
+pip install -r requirements.txt
+
+3️⃣ Run the program
+- In the terminal, from your project directory, run:
+python HA_dash.py
+- Once the page opens, add your own work shift data
